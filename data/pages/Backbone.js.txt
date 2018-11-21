@@ -1,0 +1,113 @@
+*/wiki/Dosya:Backbone.js_logo.svg
+Geliştirici(ler)*/wiki/Yaz%C4%B1l%C4%B1m_geli%C5%9Ftirici
+Javascript*/wiki/Javascript
+Platform*/wiki/Bilgisayar_platformu
+Cross-platform*/wiki/%C3%87apraz_platform_yaz%C4%B1l%C4%B1mlar%C4%B1
+Lisans*/wiki/Yaz%C4%B1l%C4%B1m_lisans%C4%B1
+MIT*/wiki/MIT_Lisans%C4%B1
+Resmî sitesi*/wiki/Web_sitesi
+JavaScript*/wiki/JavaScript
+açık kaynak kodlu*/wiki/A%C3%A7%C4%B1k_kaynak_kodlu
+USA Today*/wiki/USA_Today
+Foursquare*/wiki/Foursquare
+Khan Academy*/wiki/Khan_Academy
+AngularJS*/wiki/AngularJS
+Ember.js*/wiki/Ember.js
+Javascript kütüphaneleri listesi*/wiki/Javascript_k%C3%BCt%C3%BCphaneleri_listesi
+*/wiki/Dosya:System-installer.svg
+Yazılım*/wiki/Yaz%C4%B1l%C4%B1m
+madde*/wiki/Vikipedi:Madde
+taslaktır*/wiki/Vikipedi:Taslak_madde
+g*/wiki/%C5%9Eablon:Node.js
+Node.js*/wiki/Node.js
+Node.js*/wiki/Node.js
+Io.js*/wiki/Node.js#io.js
+NPM*/wiki/Npm
+V8*/wiki/V8
+CommonJS*/wiki/CommonJS
+*/wiki/Dosya:Node.js_logo.svg
+MEAN*/wiki/MEAN_(yaz%C4%B1l%C4%B1m)
+MongoDB*/wiki/MongoDB
+Express.js*/wiki/Express.js
+AngularJS*/wiki/AngularJS
+Underscore.js*/wiki/Underscore.js
+Meteor*/wiki/Meteor_(yaz%C4%B1l%C4%B1m)
+JavaScript*/wiki/JavaScript
+CoffeeScript*/wiki/CoffeeScript
+TypeScript*/wiki/TypeScript
+Joyent*/wiki/Joyent
+Nodejitsu*/wiki/Nodejitsu
+OpenShift*/wiki/OpenShift
+Linode*/wiki/Linode
+DigitalOcean*/wiki/DigitalOcean
+g*/wiki/%C5%9Eablon:Web_uygulama_%C3%A7at%C4%B1lar%C4%B1
+ASP.NET*/wiki/ASP.NET
+ASP.NET MVC*/wiki/ASP.NET_MVC_Framework
+ASP.NET Web Forms*/wiki/ASP.NET
+ColdFusion*/wiki/ColdFusion
+Common Lisp*/wiki/Lisp
+C++*/wiki/C%2B%2B
+Haskell*/wiki/Haskell
+Java*/wiki/Java_(programlama_dili)
+JavaServer Faces*/wiki/JavaServer_Faces
+Spring*/wiki/Spring_Framework#Model-view-controller_framework
+Wicket*/wiki/Apache_Wicket
+JavaScript*/wiki/JavaScript
+AngularJS*/wiki/AngularJS
+Ember.js*/wiki/Ember.js
+jQuery*/wiki/JQuery
+Meteor*/wiki/Meteor_(yaz%C4%B1l%C4%B1m)
+ReactJS*/wiki/ReactJS
+script.aculo.us*/wiki/Script.aculo.us
+Perl*/wiki/Perl
+PHP*/wiki/PHP
+CakePHP*/wiki/CakePHP
+CodeIgniter*/wiki/CodeIgniter
+Drupal*/wiki/Drupal
+Fat-Free*/wiki/Fat-Free_Framework
+Joomla!*/wiki/Joomla!
+Laravel*/wiki/Laravel
+Symfony*/wiki/Symfony
+TYPO3*/wiki/TYPO3
+WordPress*/wiki/WordPress
+XOOPS*/wiki/XOOPS
+Python*/wiki/Python
+BlueBream*/wiki/Zope#BlueBream
+Zope 2*/wiki/Zope#Zope_2
+Ruby*/wiki/Ruby
+Ruby on Rails*/wiki/Ruby_on_Rails
+Sinatra*/wiki/Sinatra
+Scala*/wiki/Scala
+Smalltalk*/wiki/Smalltalk
+PL/SQL*/wiki/PL/SQL
+Tcl*/wiki/Tcl
+JavaScript*/wiki/JavaScript
+Ruby*/wiki/Ruby
+Clojure*/wiki/Clojure
+5 kategori*/wiki/%C3%96zel:Kategoriler
+Yazılım taslakları*/wiki/Kategori:Yaz%C4%B1l%C4%B1m_taslaklar%C4%B1
+JavaScript kütüphaneleri*/wiki/Kategori:JavaScript_k%C3%BCt%C3%BCphaneleri
+Web uygulamaları*/wiki/Kategori:Web_uygulamalar%C4%B1
+AJAX*/wiki/Kategori:AJAX
+MIT Lisansı kullanan yazılımlar*/wiki/Kategori:MIT_Lisans%C4%B1_kullanan_yaz%C4%B1l%C4%B1mlar
+Mesaj*/wiki/%C3%96zel:MesajSayfam
+Katkılar*/wiki/%C3%96zel:Katk%C4%B1lar%C4%B1m
+Madde*/wiki/Backbone.js
+Oku*/wiki/Backbone.js
+*/wiki/Anasayfa
+Anasayfa*/wiki/Anasayfa
+Hakkımızda*/wiki/Vikipedi:Hakk%C4%B1nda
+İçindekiler*/wiki/Vikipedi:G%C3%B6zat
+Rastgele madde*/wiki/%C3%96zel:Rastgele
+Seçkin içerik*/wiki/Vikipedi:Se%C3%A7kin_i%C3%A7erik
+Deneme tahtası*/wiki/Vikipedi:Deneme_tahtas%C4%B1
+İş birliği projesi*/wiki/Vikipedi:%C4%B0%C5%9F_birli%C4%9Fi_projesi
+Köy çeşmesi*/wiki/Vikipedi:K%C3%B6y_%C3%A7e%C5%9Fmesi
+Son değişiklikler*/wiki/%C3%96zel:SonDe%C4%9Fi%C5%9Fiklikler
+Topluluk portali*/wiki/Vikipedi:Topluluk_portali
+Yardım*/wiki/Yard%C4%B1m:%C4%B0%C3%A7indekiler
+Sayfaya bağlantılar*/wiki/%C3%96zel:SayfayaBa%C4%9Flant%C4%B1lar/Backbone.js
+İlgili değişiklikler*/wiki/%C3%96zel:%C4%B0lgiliDe%C4%9Fi%C5%9Fiklikler/Backbone.js
+Özel sayfalar*/wiki/%C3%96zel:%C3%96zelSayfalar
+Vikipedi hakkında*/wiki/Vikipedi:Hakk%C4%B1nda
+Sorumluluk reddi*/wiki/Vikipedi:Genel_sorumluluk_reddi

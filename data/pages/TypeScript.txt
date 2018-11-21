@@ -1,0 +1,82 @@
+*/wiki/Dosya:TypeScript_Logo.png
+*/wiki/Dosya:TypeScript_Logo.png
+özgür*/wiki/%C3%96zg%C3%BCr_yaz%C4%B1l%C4%B1m
+açık kaynak kodlu*/wiki/A%C3%A7%C4%B1k_kaynak_kodlu
+Microsoft*/wiki/Microsoft
+JavaScript*/wiki/JavaScript
+g*/wiki/%C5%9Eablon:JavaScript
+JavaScript*/wiki/JavaScript
+CoffeeScript*/wiki/CoffeeScript
+Opa*/wiki/Opa_(programlama_dili)
+Ajax*/wiki/AJAX_(programlama)
+Microsoft Visual Studio*/wiki/Microsoft_Visual_Studio
+Visual Studio Code*/wiki/Visual_Studio_Code
+JSDoc*/wiki/JSDoc
+Visual Studio*/wiki/Microsoft_Visual_Studio
+Orion*/wiki/Orion
+Visual Studio Code*/wiki/Visual_Studio_Code
+Visual Studio Online*/wiki/Visual_Studio#Visual_Studio_Online
+CSS*/wiki/Cascading_Style_Sheets
+Document Object Model*/wiki/Document_Object_Model
+HTML*/wiki/HTML
+JSON*/wiki/JSON
+npm*/wiki/Npm
+ASP*/wiki/ASP
+CommonJS*/wiki/CommonJS
+Node.js*/wiki/Node.js
+Jasmine*/wiki/Jasmine
+Brendan Eich*/wiki/Brendan_Eich
+g*/wiki/%C5%9Eablon:Node.js
+Node.js*/wiki/Node.js
+Node.js*/wiki/Node.js
+Io.js*/wiki/Node.js#io.js
+NPM*/wiki/Npm
+V8*/wiki/V8
+CommonJS*/wiki/CommonJS
+*/wiki/Dosya:Node.js_logo.svg
+MEAN*/wiki/MEAN_(yaz%C4%B1l%C4%B1m)
+MongoDB*/wiki/MongoDB
+Express.js*/wiki/Express.js
+AngularJS*/wiki/AngularJS
+Underscore.js*/wiki/Underscore.js
+Backbone.js*/wiki/Backbone.js
+Meteor*/wiki/Meteor_(yaz%C4%B1l%C4%B1m)
+JavaScript*/wiki/JavaScript
+CoffeeScript*/wiki/CoffeeScript
+Joyent*/wiki/Joyent
+Nodejitsu*/wiki/Nodejitsu
+OpenShift*/wiki/OpenShift
+Linode*/wiki/Linode
+DigitalOcean*/wiki/DigitalOcean
+*/wiki/Dosya:System-installer.svg
+Yazılım*/wiki/Yaz%C4%B1l%C4%B1m
+madde*/wiki/Vikipedi:Madde
+taslaktır*/wiki/Vikipedi:Taslak_madde
+6 kategori*/wiki/%C3%96zel:Kategoriler
+Yazılım taslakları*/wiki/Kategori:Yaz%C4%B1l%C4%B1m_taslaklar%C4%B1
+Çapraz platform yazılımları*/wiki/Kategori:%C3%87apraz_platform_yaz%C4%B1l%C4%B1mlar%C4%B1
+Betik dilleri*/wiki/Kategori:Betik_dilleri
+Microsoft yazılımları*/wiki/Kategori:Microsoft_yaz%C4%B1l%C4%B1mlar%C4%B1
+Apache lisansı kullanan yazılımlar*/wiki/Kategori:Apache_lisans%C4%B1_kullanan_yaz%C4%B1l%C4%B1mlar
+2012'de oluşturulan programlama dilleri*/wiki/Kategori:2012%27de_olu%C5%9Fturulan_programlama_dilleri
+Mesaj*/wiki/%C3%96zel:MesajSayfam
+Katkılar*/wiki/%C3%96zel:Katk%C4%B1lar%C4%B1m
+Madde*/wiki/TypeScript
+Oku*/wiki/TypeScript
+*/wiki/Anasayfa
+Anasayfa*/wiki/Anasayfa
+Hakkımızda*/wiki/Vikipedi:Hakk%C4%B1nda
+İçindekiler*/wiki/Vikipedi:G%C3%B6zat
+Rastgele madde*/wiki/%C3%96zel:Rastgele
+Seçkin içerik*/wiki/Vikipedi:Se%C3%A7kin_i%C3%A7erik
+Deneme tahtası*/wiki/Vikipedi:Deneme_tahtas%C4%B1
+İş birliği projesi*/wiki/Vikipedi:%C4%B0%C5%9F_birli%C4%9Fi_projesi
+Köy çeşmesi*/wiki/Vikipedi:K%C3%B6y_%C3%A7e%C5%9Fmesi
+Son değişiklikler*/wiki/%C3%96zel:SonDe%C4%9Fi%C5%9Fiklikler
+Topluluk portali*/wiki/Vikipedi:Topluluk_portali
+Yardım*/wiki/Yard%C4%B1m:%C4%B0%C3%A7indekiler
+Sayfaya bağlantılar*/wiki/%C3%96zel:SayfayaBa%C4%9Flant%C4%B1lar/TypeScript
+İlgili değişiklikler*/wiki/%C3%96zel:%C4%B0lgiliDe%C4%9Fi%C5%9Fiklikler/TypeScript
+Özel sayfalar*/wiki/%C3%96zel:%C3%96zelSayfalar
+Vikipedi hakkında*/wiki/Vikipedi:Hakk%C4%B1nda
+Sorumluluk reddi*/wiki/Vikipedi:Genel_sorumluluk_reddi

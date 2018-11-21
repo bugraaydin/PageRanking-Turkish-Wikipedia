@@ -1,0 +1,108 @@
+*/wiki/Dosya:Node.js_logo.svg
+Orijinal yazar(lar)*/wiki/Yaz%C4%B1l%C4%B1m_tasar%C4%B1m%C4%B1
+C*/wiki/C
+C++*/wiki/C%2B%2B
+JavaScript*/wiki/JavaScript
+Platform*/wiki/Bilgisayar_platformu
+Microsoft Windows*/wiki/Microsoft_Windows
+OS X*/wiki/OS_X
+Linux*/wiki/Linux
+Solaris*/wiki/Solaris_(i%C5%9Fletim_sistemi)
+FreeBSD*/wiki/FreeBSD
+OpenBSD*/wiki/OpenBSD
+webOS*/wiki/WebOS
+Lisans*/wiki/Yaz%C4%B1l%C4%B1m_lisans%C4%B1
+MIT Lisansı*/wiki/MIT_Lisans%C4%B1
+Resmî sitesi*/wiki/Web_sitesi
+açık kaynaklı*/wiki/A%C3%A7%C4%B1k_kaynak
+sunucu tarafında*/wiki/Sunucu_(bili%C5%9Fim)
+uygulamalar*/wiki/Uygulama_(bilgisayar)
+çalıştırma ortamıdır*/wiki/%C3%87al%C4%B1%C5%9Ft%C4%B1rma_ortam%C4%B1
+İng.*/wiki/%C4%B0ng.
+istemci tarafı betik dili*/wiki/%C4%B0stemci_taraf%C4%B1_betik
+JavaScript*/wiki/JavaScript
+bloklamayan G/Ç*/wiki/Bloklamayan_G/%C3%87
+İng.*/wiki/%C4%B0ng.
+İng.*/wiki/%C4%B0ng.
+Google V8*/wiki/V8
+betik dilini*/wiki/Betik_dili
+Apache HTTP Sunucusu*/wiki/Apache_HTTP_Sunucusu
+Nginx*/wiki/Nginx
+IIS*/wiki/IIS
+*/wiki/Dosya:Io.js_logo.png
+*/wiki/Dosya:Io.js_logo.png
+*/wiki/Dosya:System-installer.svg
+Yazılım*/wiki/Yaz%C4%B1l%C4%B1m
+madde*/wiki/Vikipedi:Madde
+taslaktır*/wiki/Vikipedi:Taslak_madde
+g*/wiki/%C5%9Eablon:Node.js
+Io.js*/wiki/Node.js#io.js
+NPM*/wiki/Npm
+V8*/wiki/V8
+CommonJS*/wiki/CommonJS
+*/wiki/Dosya:Node.js_logo.svg
+MEAN*/wiki/MEAN_(yaz%C4%B1l%C4%B1m)
+MongoDB*/wiki/MongoDB
+Express.js*/wiki/Express.js
+AngularJS*/wiki/AngularJS
+Underscore.js*/wiki/Underscore.js
+Backbone.js*/wiki/Backbone.js
+Meteor*/wiki/Meteor_(yaz%C4%B1l%C4%B1m)
+JavaScript*/wiki/JavaScript
+CoffeeScript*/wiki/CoffeeScript
+TypeScript*/wiki/TypeScript
+Joyent*/wiki/Joyent
+Nodejitsu*/wiki/Nodejitsu
+OpenShift*/wiki/OpenShift
+Linode*/wiki/Linode
+DigitalOcean*/wiki/DigitalOcean
+g*/wiki/%C5%9Eablon:JavaScript
+JavaScript*/wiki/JavaScript
+CoffeeScript*/wiki/CoffeeScript
+TypeScript*/wiki/TypeScript
+Opa*/wiki/Opa_(programlama_dili)
+Ajax*/wiki/AJAX_(programlama)
+Microsoft Visual Studio*/wiki/Microsoft_Visual_Studio
+Visual Studio Code*/wiki/Visual_Studio_Code
+JSDoc*/wiki/JSDoc
+Visual Studio*/wiki/Microsoft_Visual_Studio
+Orion*/wiki/Orion
+Visual Studio Code*/wiki/Visual_Studio_Code
+Visual Studio Online*/wiki/Visual_Studio#Visual_Studio_Online
+CSS*/wiki/Cascading_Style_Sheets
+Document Object Model*/wiki/Document_Object_Model
+HTML*/wiki/HTML
+JSON*/wiki/JSON
+npm*/wiki/Npm
+ASP*/wiki/ASP
+CommonJS*/wiki/CommonJS
+Jasmine*/wiki/Jasmine
+Brendan Eich*/wiki/Brendan_Eich
+6 kategori*/wiki/%C3%96zel:Kategoriler
+Yazılım taslakları*/wiki/Kategori:Yaz%C4%B1l%C4%B1m_taslaklar%C4%B1
+C++ ile programlanmış ücretsiz yazılımlar*/wiki/Kategori:C%2B%2B_ile_programlanm%C4%B1%C5%9F_%C3%BCcretsiz_yaz%C4%B1l%C4%B1mlar
+JavaScript ile programlanmış ücretsiz yazılımlar*/wiki/Kategori:JavaScript_ile_programlanm%C4%B1%C5%9F_%C3%BCcretsiz_yaz%C4%B1l%C4%B1mlar
+JavaScript kütüphaneleri*/wiki/Kategori:JavaScript_k%C3%BCt%C3%BCphaneleri
+Joyent*/wiki/Kategori:Joyent
+MIT Lisansı kullanan yazılımlar*/wiki/Kategori:MIT_Lisans%C4%B1_kullanan_yaz%C4%B1l%C4%B1mlar
+Mesaj*/wiki/%C3%96zel:MesajSayfam
+Katkılar*/wiki/%C3%96zel:Katk%C4%B1lar%C4%B1m
+Madde*/wiki/Node.js
+Oku*/wiki/Node.js
+*/wiki/Anasayfa
+Anasayfa*/wiki/Anasayfa
+Hakkımızda*/wiki/Vikipedi:Hakk%C4%B1nda
+İçindekiler*/wiki/Vikipedi:G%C3%B6zat
+Rastgele madde*/wiki/%C3%96zel:Rastgele
+Seçkin içerik*/wiki/Vikipedi:Se%C3%A7kin_i%C3%A7erik
+Deneme tahtası*/wiki/Vikipedi:Deneme_tahtas%C4%B1
+İş birliği projesi*/wiki/Vikipedi:%C4%B0%C5%9F_birli%C4%9Fi_projesi
+Köy çeşmesi*/wiki/Vikipedi:K%C3%B6y_%C3%A7e%C5%9Fmesi
+Son değişiklikler*/wiki/%C3%96zel:SonDe%C4%9Fi%C5%9Fiklikler
+Topluluk portali*/wiki/Vikipedi:Topluluk_portali
+Yardım*/wiki/Yard%C4%B1m:%C4%B0%C3%A7indekiler
+Sayfaya bağlantılar*/wiki/%C3%96zel:SayfayaBa%C4%9Flant%C4%B1lar/Node.js
+İlgili değişiklikler*/wiki/%C3%96zel:%C4%B0lgiliDe%C4%9Fi%C5%9Fiklikler/Node.js
+Özel sayfalar*/wiki/%C3%96zel:%C3%96zelSayfalar
+Vikipedi hakkında*/wiki/Vikipedi:Hakk%C4%B1nda
+Sorumluluk reddi*/wiki/Vikipedi:Genel_sorumluluk_reddi

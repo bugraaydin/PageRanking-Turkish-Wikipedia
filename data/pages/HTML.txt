@@ -1,0 +1,168 @@
+*/wiki/Dosya:HTML.svg
+1993*/wiki/1993
+Geliştirici*/wiki/Yaz%C4%B1l%C4%B1m_geli%C5%9Ftirici
+W3C*/wiki/D%C3%BCnya_%C3%87ap%C4%B1nda_A%C4%9F_Birli%C4%9Fi
+Kararlı sürüm*/wiki/Yaz%C4%B1l%C4%B1m_s%C3%BCr%C3%BCm%C3%BC_ya%C5%9Fam_d%C3%B6ng%C3%BCs%C3%BC
+5.0*/wiki/HTML5
+28 Ekim*/wiki/28_Ekim
+2014*/wiki/2014
+Platformu*/wiki/Bilgisayar_platformu
+Web*/wiki/Web
+İşletim sistemi*/wiki/%C4%B0%C5%9Fletim_sistemi
+Lisans*/wiki/Yaz%C4%B1l%C4%B1m_lisans%C4%B1
+Açık kaynak*/wiki/A%C3%A7%C4%B1k_kaynak
+dosya uzantıları*/wiki/Dosya_uzant%C4%B1s%C4%B1
+Web sitesi*/wiki/Web_sitesi
+Hiper Metin*/wiki/Hypertext
+İşaretleme Dili*/wiki/%C4%B0%C5%9Faretleme_dili
+İngilizce*/wiki/%C4%B0ngilizce
+metin işaretleme dilidir*/wiki/%C4%B0%C5%9Faretleme_dili
+HTML5*/wiki/HTML5
+web tarayıcısı*/wiki/Web_taray%C4%B1c%C4%B1s%C4%B1
+web tarayıcıları*/wiki/Web_taray%C4%B1c%C4%B1s%C4%B1
+CSS*/wiki/CSS
+JavaScript*/wiki/JavaScript
+W3C*/wiki/D%C3%BCnya_%C3%87ap%C4%B1nda_A%C4%9F_Birli%C4%9Fi
+CERN*/wiki/CERN
+g*/wiki/%C5%9Eablon:Web_Teknolojileri
+PHP*/wiki/PHP
+Python*/wiki/Python_(programlama_dili)
+Ruby*/wiki/Ruby
+ASP*/wiki/ASP
+ASP.NET*/wiki/ASP.NET
+JavaServer Pages*/wiki/JavaServer_Pages
+DHTML*/wiki/DHTML
+XHTML*/wiki/XHTML
+XML*/wiki/XML
+Web 2.0*/wiki/Web_2.0
+Ajax*/wiki/AJAX_(programlama)
+JQuery*/wiki/JQuery
+Anlamsal ağ*/wiki/Anlamsal_a%C4%9F
+Adobe Dreamweaver*/wiki/Adobe_Dreamweaver
+Zend Studio*/wiki/Zend_Studio
+Adobe Photoshop*/wiki/Adobe_Photoshop
+Adobe Fireworks*/wiki/Adobe_Fireworks
+GIMP*/wiki/GIMP
+Inkscape*/wiki/Inkscape
+Barındırma hizmeti*/wiki/Bar%C4%B1nd%C4%B1rma_hizmeti
+Apache*/wiki/Apache_HTTP_Sunucusu
+IIS*/wiki/Internet_Information_Services
+MariaDB*/wiki/MariaDB
+MySQL*/wiki/MySQL
+Microsoft SQL Server*/wiki/Microsoft_SQL_Server
+htaccess*/wiki/Htaccess
+Smarty*/wiki/Smarty
+Arama motoru optimizasyonu*/wiki/Arama_motoru_optimizasyonu
+WordPress*/wiki/WordPress
+Joomla!*/wiki/Joomla!
+Drupal*/wiki/Drupal
+CMS MS*/wiki/CMS_Made_Simple
+Magento*/wiki/Magento
+CakePHP*/wiki/CakePHP
+CodeIgniter*/wiki/CodeIgniter
+Laravel*/wiki/Laravel
+Django*/wiki/Django
+Ruby on Rails*/wiki/Ruby_on_Rails
+World Wide Web Consortium*/wiki/World_Wide_Web_Consortium
+CSS*/wiki/Cascading_Style_Sheets
+DOM*/wiki/Document_Object_Model
+MathML*/wiki/MathML
+P3P*/wiki/P3P
+RDF*/wiki/Kaynak_Tan%C4%B1mlama_%C3%87er%C3%A7evesi
+SOAP*/wiki/SOAP
+SVG*/wiki/%C3%96l%C3%A7eklenebilir_Vekt%C3%B6r_Grafikleri
+VoiceXML*/wiki/VoiceXML
+XHTML*/wiki/XHTML
+XLink*/wiki/XLink
+XML*/wiki/XML
+XPath*/wiki/XPath
+XPointer*/wiki/XPointer
+XQuery*/wiki/XQuery
+XSL*/wiki/XSL
+XSLT*/wiki/XSLT
+HTML5*/wiki/HTML5
+XMLHttpRequest*/wiki/XMLHttpRequest
+World Wide Web Foundation*/wiki/World_Wide_Web_Foundation
+g*/wiki/%C5%9Eablon:ISO_standartlar%C4%B1
+ISO*/wiki/ISO
+ISO romanizasyonları*/wiki/ISO_romanizasyonlar%C4%B1_listesi
+216*/wiki/ISO_216
+269*/wiki/Zarf
+639*/wiki/ISO_639
+-2*/wiki/ISO_639-2
+-3*/wiki/ISO_639-3
+1538*/wiki/ALGOL_60
+2108*/wiki/ISBN
+3166*/wiki/ISO_3166
+-2*/wiki/ISO_3166-2
+3297*/wiki/Uluslararas%C4%B1_Standart_S%C3%BCreli_Yay%C4%B1n_Numaras%C4%B1
+4217*/wiki/ISO_4217
+7098*/wiki/Pinyin
+7185*/wiki/Pascal_(programlama_dili)
+8217*/wiki/Fuel_oil
+8859*/wiki/ISO/IEC_8859
+9000/9001*/wiki/ISO_9000
+9075*/wiki/SQL
+9362*/wiki/ISO_9362
+9899*/wiki/C_(programlama_dili)
+9945*/wiki/POSIX
+13211*/wiki/Prolog
+-1*/wiki/Prolog
+-2*/wiki/Prolog
+13485*/wiki/ISO_13485
+13568*/wiki/Z_notasyonu
+14496*/wiki/MPEG-4
+-10*/wiki/H.264/MPEG-4_AVC
+-14*/wiki/MP4
+-17*/wiki/MP4
+-20*/wiki/MP4
+14764*/wiki/Yaz%C4%B1l%C4%B1m_bak%C4%B1m%C4%B1
+14882*/wiki/C%2B%2B
+15408*/wiki/Common_Criteria
+15924*/wiki/ISO_15924
+16262*/wiki/ECMAScript
+19115*/wiki/ISO_19115
+19500*/wiki/CORBA
+19501*/wiki/UML
+19505*/wiki/UML
+19775-1*/wiki/X3D
+23270*/wiki/C_Sharp
+26300*/wiki/OpenDocument
+26324*/wiki/Say%C4%B1sal_nesne_tan%C4%B1mlay%C4%B1c%C4%B1s%C4%B1
+27729*/wiki/Uluslararas%C4%B1_Standart_Ad_Tan%C4%B1mlay%C4%B1c%C4%B1s%C4%B1
+29500*/wiki/Office_Open_XML
+30170*/wiki/Ruby
+32000*/wiki/PDF
+Kategori*/wiki/Kategori:ISO_standartlar%C4%B1
+*/wiki/Dosya:HelloWorld.svg
+Programlama dili*/wiki/Programlama_dili
+madde*/wiki/Vikipedi:Madde
+taslaktır*/wiki/Vikipedi:Taslak_madde
+5 kategori*/wiki/%C3%96zel:Kategoriler
+Programlama dili taslakları*/wiki/Kategori:Programlama_dili_taslaklar%C4%B1
+HTML*/wiki/Kategori:HTML
+İşaretleme dilleri*/wiki/Kategori:%C4%B0%C5%9Faretleme_dilleri
+Web teknolojisi*/wiki/Kategori:Web_teknolojisi
+İnternet teknolojileri*/wiki/Kategori:%C4%B0nternet_teknolojileri
+Mesaj*/wiki/%C3%96zel:MesajSayfam
+Katkılar*/wiki/%C3%96zel:Katk%C4%B1lar%C4%B1m
+Madde*/wiki/HTML
+Tartışma*/wiki/Tart%C4%B1%C5%9Fma:HTML
+Oku*/wiki/HTML
+*/wiki/Anasayfa
+Anasayfa*/wiki/Anasayfa
+Hakkımızda*/wiki/Vikipedi:Hakk%C4%B1nda
+İçindekiler*/wiki/Vikipedi:G%C3%B6zat
+Rastgele madde*/wiki/%C3%96zel:Rastgele
+Seçkin içerik*/wiki/Vikipedi:Se%C3%A7kin_i%C3%A7erik
+Deneme tahtası*/wiki/Vikipedi:Deneme_tahtas%C4%B1
+İş birliği projesi*/wiki/Vikipedi:%C4%B0%C5%9F_birli%C4%9Fi_projesi
+Köy çeşmesi*/wiki/Vikipedi:K%C3%B6y_%C3%A7e%C5%9Fmesi
+Son değişiklikler*/wiki/%C3%96zel:SonDe%C4%9Fi%C5%9Fiklikler
+Topluluk portali*/wiki/Vikipedi:Topluluk_portali
+Yardım*/wiki/Yard%C4%B1m:%C4%B0%C3%A7indekiler
+Sayfaya bağlantılar*/wiki/%C3%96zel:SayfayaBa%C4%9Flant%C4%B1lar/HTML
+İlgili değişiklikler*/wiki/%C3%96zel:%C4%B0lgiliDe%C4%9Fi%C5%9Fiklikler/HTML
+Özel sayfalar*/wiki/%C3%96zel:%C3%96zelSayfalar
+Vikipedi hakkında*/wiki/Vikipedi:Hakk%C4%B1nda
+Sorumluluk reddi*/wiki/Vikipedi:Genel_sorumluluk_reddi

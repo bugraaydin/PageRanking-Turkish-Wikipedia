@@ -1,0 +1,149 @@
+programlama*/wiki/Programlama
+programlama dili*/wiki/Programlama_dili
+1960*/wiki/1960
+bilgi*/wiki/Bilgi
+veri soyutlama*/wiki/Veri_soyutlama
+çok biçimlilik*/wiki/%C3%87ok_bi%C3%A7imlilik
+kalıtım*/wiki/Kal%C4%B1t%C4%B1m_(programlama)
+Yordamsal programlama*/wiki/Yordamsal_programlama
+Python*/wiki/Python_(programlama_dili)
+C++*/wiki/C%2B%2B
+Objective-C*/wiki/Objective-C
+Smalltalk*/wiki/Smalltalk
+Delphi*/wiki/Delphi_(programlama_dili)
+Java*/wiki/Java_(programlama_dili)
+Swift*/wiki/Swift_(programlama_dili)
+C#*/wiki/C
+Perl*/wiki/Perl
+Ruby*/wiki/Ruby_programlama_dili
+PHP*/wiki/PHP
+Nesne yönelimli programlama dilleri*/wiki/Nesne_tabanl%C4%B1_programlama_dili
+Ada*/wiki/Ada_(programlama_dili)
+JavaScript*/wiki/JavaScript
+Visual Basic*/wiki/Visual_Basic
+nesne tabanlı programlama dilleri*/wiki/Nesne_tabanl%C4%B1_programlama_dili
+prototipler*/wiki/Prototip_tabanl%C4%B1_programlama
+nesneler*/wiki/Nesne_(programlama)
+nesnelere*/wiki/Nesne_(programlama)
+nesneler*/wiki/Nesne_(programlama)
+logaritma*/wiki/Logaritma
+fite*/wiki/Fit_(birim)
+nesnelere*/wiki/Nesne_(programlama)
+nesneler*/wiki/Nesne_(programlama)
+nesne*/wiki/Nesne_(programlama)
+nesne*/wiki/Nesne_(programlama)
+CORBA*/wiki/CORBA
+Nesne tabanlı programlama dili*/wiki/Nesne_tabanl%C4%B1_programlama_dili
+Nesne Yönelimli Çözümleme ve Tasarım*/wiki/Nesne_Y%C3%B6nelimli_%C3%87%C3%B6z%C3%BCmleme_ve_Tasar%C4%B1m
+Sarma (Bilgisayar Bilimleri)*/wiki/Sarma_(Bilgisayar_Bilimleri)
+Soyutlama (Bilgisayar Bilimleri)*/wiki/Soyutlama_(Bilgisayar_Bilimleri)
+Tasarım şablonları*/wiki/Tasar%C4%B1m_%C5%9Fablonlar%C4%B1
+Bilgisayar biliminin*/wiki/Bilgisayar_bilimi
+Matematiksel temeller*/wiki/Matematik
+Matematiksel mantık*/wiki/Matematiksel_mant%C4%B1k
+Kümeler kuramı*/wiki/K%C3%BCmeler_kuram%C4%B1
+Sayı teorisi*/wiki/Say%C4%B1lar_teorisi
+Çizge teorisi*/wiki/%C3%87izge_teorisi
+Kategori teorisi*/wiki/Kategori_teorisi
+Sayısal çözümleme*/wiki/Say%C4%B1sal_analiz
+Bilgi teorisi*/wiki/Bilgi_teorisi
+Kombinatorik*/wiki/Kombinatorik
+Boole cebiri*/wiki/Boole_cebiri
+*/wiki/Dosya:Internet_map_1024.jpg
+Hesaplama teorisi*/wiki/Hesaplama_teorisi
+Otomat teorisi*/wiki/Otomat_teorisi
+Hesaplanabilirlik teorisi*/wiki/Hesaplanabilirlik_teorisi
+Hesaplamalı karmaşıklık teorisi*/wiki/Hesaplamal%C4%B1_karma%C5%9F%C4%B1kl%C4%B1k_teorisi
+Kuantum hesaplama teorisi*/wiki/Kuantum_bilgisayar%C4%B1
+Algoritmalar*/wiki/Algoritma
+veri yapıları*/wiki/Veri_yap%C4%B1s%C4%B1
+Algoritma çözümlemesi*/wiki/Algoritma_%C3%A7%C3%B6z%C3%BCmlemesi
+Algoritma tasarımı*/wiki/Algoritma_tasar%C4%B1m%C4%B1
+Hesaplamalı geometri*/wiki/Hesaplamal%C4%B1_geometri
+Programlama dilleri*/wiki/Programlama_dili
+derleyiciler*/wiki/Derleyici
+Ayrıştırıcılar*/wiki/Ayr%C4%B1%C5%9Ft%C4%B1r%C4%B1c%C4%B1lar
+Yorumlayıcılar*/wiki/Yorumlay%C4%B1c%C4%B1
+Yordamsal programlama*/wiki/Yordamsal_programlama
+Fonksiyonel programlama*/wiki/Fonksiyonel_programlama
+Mantık programlama*/wiki/Mant%C4%B1k_programlama
+Programlama paradigmaları*/wiki/Programlama_paradigmas%C4%B1
+Eşzamanlı*/wiki/E%C5%9Fzamanl%C4%B1l%C4%B1k
+paralel*/wiki/Paralel_hesaplama
+dağıtık*/wiki/Da%C4%9F%C4%B1t%C4%B1k_hesaplama
+Çoklu işleme*/wiki/%C3%87oklu_i%C5%9Fleme
+Dağıtımlı hesaplama*/wiki/Da%C4%9F%C4%B1t%C4%B1ml%C4%B1_hesaplama
+Eşzamanlılık denetimi*/wiki/E%C5%9Fzamanl%C4%B1l%C4%B1k_denetimi
+Yazılım mühendisliği*/wiki/Yaz%C4%B1l%C4%B1m_m%C3%BChendisli%C4%9Fi
+Gereksinim çözümleme*/wiki/Gereksinim_%C3%A7%C3%B6z%C3%BCmleme
+Yazılım tasarımı*/wiki/Yaz%C4%B1l%C4%B1m_tasar%C4%B1m%C4%B1
+Bilgisayar programlama*/wiki/Programlama
+Biçimsel yöntemler*/wiki/Bi%C3%A7imsel_y%C3%B6ntemler
+Yazılım testi*/wiki/Yaz%C4%B1l%C4%B1m_testi
+Yazılım geliştirme süreci*/wiki/Yaz%C4%B1l%C4%B1m_geli%C5%9Ftirme_s%C3%BCreci
+Sistem mimarisi*/wiki/Sistem_mimarisi
+Bilgisayar mimarisi*/wiki/Bilgisayar_mimarisi
+Bilgisayar organizasyonu*/wiki/Bilgisayar_organizasyonu
+İşletim sistemi*/wiki/%C4%B0%C5%9Fletim_sistemi
+Telekomünikasyon*/wiki/Telekom%C3%BCnikasyon
+ağ oluşturma*/wiki/Bilgisayar_a%C4%9F%C4%B1
+Bilgisayar müziği*/wiki/Bilgisayar_m%C3%BCzi%C4%9Fi
+Yönlendirme*/wiki/Y%C3%B6nlendirme
+Ağ topolojisi*/wiki/A%C4%9F_topolojisi
+Kriptografi*/wiki/Kriptografi
+Veri tabanları*/wiki/Veri_taban%C4%B1
+Veri tabanı yönetim sistemleri*/wiki/Veri_taban%C4%B1_y%C3%B6netim_sistemi
+İlişkisel veritabanı*/wiki/%C4%B0li%C5%9Fkisel_veritaban%C4%B1
+SQL*/wiki/SQL
+Veritabanı indeksleme*/wiki/Veritaban%C4%B1_indeksleme
+Veri madenciliği*/wiki/Veri_madencili%C4%9Fi
+Yapay zekâ*/wiki/Yapay_zek%C3%A2
+Otomatikleştirilmiş muhakeme*/wiki/Otomatikle%C5%9Ftirilmi%C5%9F_muhakeme
+Hesaplamalı dilbilim*/wiki/Hesaplamal%C4%B1_dilbilim
+Evrimsel hesaplama*/wiki/Evrimsel_hesaplama
+Uzman sistemler*/wiki/Uzman_sistemler
+Makine öğrenimi*/wiki/Makine_%C3%B6%C4%9Frenimi
+Doğal dil işleme*/wiki/Do%C4%9Fal_dil_i%C5%9Fleme
+Robotik*/wiki/Robotik
+Bilgisayar grafikleri*/wiki/Bilgisayar_grafikleri
+Bilgisayar animasyonu*/wiki/Bilgisayar_animasyonu
+Görüntü işleme*/wiki/G%C3%B6r%C3%BCnt%C3%BC_i%C5%9Fleme
+İnsan bilgisayar etkileşimi*/wiki/%C4%B0nsan_bilgisayar_etkile%C5%9Fimi
+Kullanıcı arayüzleri*/wiki/Kullan%C4%B1c%C4%B1_aray%C3%BCz%C3%BC
+Giyilebilir hesaplama*/wiki/Giyilebilir_bilgisayar
+Yaygın bilişim*/wiki/Yayg%C4%B1n_bili%C5%9Fim
+Sanal gerçeklik*/wiki/Sanal_ger%C3%A7eklik
+Bilimsel hesaplama*/wiki/Bilimsel_hesaplama
+Yapay yaşam*/wiki/Yapay_ya%C5%9Fam
+Biyoenformatik*/wiki/Biyoenformatik
+Bilişsel bilim*/wiki/Bili%C5%9Fsel_bilim
+Hesaplamalı kimya*/wiki/Hesaplamal%C4%B1_kimya
+Hesaplamalı nörobilim*/wiki/Hesaplamal%C4%B1_n%C3%B6robilim
+Hesaplamalı fizik*/wiki/Hesaplamal%C4%B1_fizik
+Sayısal algoritmalar*/wiki/Say%C4%B1sal_algoritmalar
+Sembolik matematik*/wiki/Sembolik_matematik
+ACM Hesaplama ve Sınıflandırma Sistemi*/wiki/ACM_Hesaplama_ve_S%C4%B1n%C4%B1fland%C4%B1rma_Sistemi
+1 kategori*/wiki/%C3%96zel:Kategoriler
+Nesne yönelimli programlama*/wiki/Kategori:Nesne_y%C3%B6nelimli_programlama
+Mesaj*/wiki/%C3%96zel:MesajSayfam
+Katkılar*/wiki/%C3%96zel:Katk%C4%B1lar%C4%B1m
+Madde*/wiki/Nesne_y%C3%B6nelimli_programlama
+Tartışma*/wiki/Tart%C4%B1%C5%9Fma:Nesne_y%C3%B6nelimli_programlama
+Oku*/wiki/Nesne_y%C3%B6nelimli_programlama
+*/wiki/Anasayfa
+Anasayfa*/wiki/Anasayfa
+Hakkımızda*/wiki/Vikipedi:Hakk%C4%B1nda
+İçindekiler*/wiki/Vikipedi:G%C3%B6zat
+Rastgele madde*/wiki/%C3%96zel:Rastgele
+Seçkin içerik*/wiki/Vikipedi:Se%C3%A7kin_i%C3%A7erik
+Deneme tahtası*/wiki/Vikipedi:Deneme_tahtas%C4%B1
+İş birliği projesi*/wiki/Vikipedi:%C4%B0%C5%9F_birli%C4%9Fi_projesi
+Köy çeşmesi*/wiki/Vikipedi:K%C3%B6y_%C3%A7e%C5%9Fmesi
+Son değişiklikler*/wiki/%C3%96zel:SonDe%C4%9Fi%C5%9Fiklikler
+Topluluk portali*/wiki/Vikipedi:Topluluk_portali
+Yardım*/wiki/Yard%C4%B1m:%C4%B0%C3%A7indekiler
+Sayfaya bağlantılar*/wiki/%C3%96zel:SayfayaBa%C4%9Flant%C4%B1lar/Nesne_y%C3%B6nelimli_programlama
+İlgili değişiklikler*/wiki/%C3%96zel:%C4%B0lgiliDe%C4%9Fi%C5%9Fiklikler/Nesne_y%C3%B6nelimli_programlama
+Özel sayfalar*/wiki/%C3%96zel:%C3%96zelSayfalar
+Vikipedi hakkında*/wiki/Vikipedi:Hakk%C4%B1nda
+Sorumluluk reddi*/wiki/Vikipedi:Genel_sorumluluk_reddi
