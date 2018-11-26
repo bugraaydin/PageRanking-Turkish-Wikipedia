@@ -14,14 +14,35 @@ import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+import static java.lang.Thread.sleep;
+
 public class HTMLParser{
     static int threadCount = 1;
     static final int MAX_THREAD = 5;
     public static final String path = "data/pages/";
     public static final String wikipediaDefault = "https://tr.wikipedia.org/wiki/";
     public static void main(String[] args) throws Exception{
-        String startingPage = "JavaScript";
-        parsePage(startingPage);
+        String pageToParse = "Ajdar";
+        parsePage(pageToParse);
+        pageToParse = "Savur";
+        parsePage(pageToParse);
+        pageToParse = "Mardin";
+        parsePage(pageToParse);
+        pageToParse = "Türkiye";
+        parsePage(pageToParse);
+        pageToParse = "Pop";
+        parsePage(pageToParse);
+        pageToParse = "Şarkıcı";
+        parsePage(pageToParse);
+        pageToParse = "Besteci";
+        parsePage(pageToParse);
+        parsePage(pageToParse);
+        pageToParse = "Erol Büyükburç";
+        parsePage(pageToParse);
+        pageToParse = "Flash TV";
+        parsePage(pageToParse);
+        pageToParse = "Gülben Ergen";
+        parsePage(pageToParse);
 
 
     }
@@ -34,8 +55,10 @@ public class HTMLParser{
         Document doc = Jsoup.connect(url).get();
         Elements links = doc.select("a[href^=/wiki]");
         for (Element link : links) {
-            pageNames.put(link.text());
-            pageUrls.put(link.attr("href"));
+            if(link.text() != "") {
+                pageNames.put(link.text());
+                pageUrls.put(link.attr("href"));
+            }
         }
         json.put("Names", pageNames);
         json.put("URLS", pageUrls);
