@@ -1,20 +1,20 @@
 package WebCrawler;
 
-import org.json.JSONArray;
-import org.json.JSONObject;
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
+        import org.json.JSONArray;
+        import org.json.JSONObject;
+        import org.jsoup.Jsoup;
+        import org.jsoup.nodes.Document;
+        import org.jsoup.nodes.Element;
+        import org.jsoup.select.Elements;
 
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.util.ArrayList;
-import java.util.Scanner;
+        import java.io.File;
+        import java.io.FileWriter;
+        import java.io.IOException;
+        import java.io.PrintWriter;
+        import java.util.ArrayList;
+        import java.util.Scanner;
 
-import static java.lang.Thread.sleep;
+        import static java.lang.Thread.sleep;
 
 public class HTMLParser{
     static int threadCount = 1;
@@ -36,7 +36,6 @@ public class HTMLParser{
         parsePage(pageToParse);
         pageToParse = "Besteci";
         parsePage(pageToParse);
-        parsePage(pageToParse);
         pageToParse = "Erol Büyükburç";
         parsePage(pageToParse);
         pageToParse = "Flash TV";
@@ -53,11 +52,13 @@ public class HTMLParser{
         String url = wikipediaDefault + pageName;
         System.out.println("Fetching %s..." + url);
         Document doc = Jsoup.connect(url).get();
-        Elements links = doc.select("a[href^=/wiki]");
+        Elements links = doc.select("div#bodyContent");
+        links = doc.select("a[href^=/wiki]");
         for (Element link : links) {
             if(link.text() != "") {
                 pageNames.put(link.text());
-                pageUrls.put(link.attr("href"));
+                //pageUrls.put(link.attr("href"));
+                pageUrls.put(java.net.URLDecoder.decode(link.attr("href"), "UTF-8"));
             }
         }
         json.put("Names", pageNames);
@@ -77,6 +78,7 @@ public class HTMLParser{
         threadCount--;
     }
 }
+
 
 /*
             Thread newJob = new Thread() {
