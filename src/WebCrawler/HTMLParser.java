@@ -12,14 +12,14 @@ package WebCrawler;
 
 
 public class HTMLParser{
-    static Set<String> uselessStrings = new HashSet<String>();
-    static Set<String> alreadyParsedPages = new HashSet<String>();
-    static Queue<String> pagesToProcess = new ArrayDeque<String>();
+    private static Set<String> uselessStrings = new HashSet<>();
+    private static Set<String> alreadyParsedPages = new HashSet<>();
+    private static Queue<String> pagesToProcess = new ArrayDeque<>();
 
-    public static Locale trlocale= new Locale("tr", "TR");
-    public static final String wikipediaDefault = "https://tr.wikipedia.org/wiki/";
-    public static void main(String[] args) throws Exception{
-        ArrayList<String> useless = new ArrayList<String>();
+    private static Locale trlocale= new Locale("tr", "TR");
+    private static final String wikipediaDefault = "https://tr.wikipedia.org/wiki/";
+    public static void main(String[] args){
+        ArrayList<String> useless = new ArrayList<>();
         useless.add("mesaj"); useless.add(""); useless.add(" "); useless.add("sorumluluk reddi");
         useless.add("son değişiklikler"); useless.add("topluluk portali"); useless.add("yardım");
         useless.add("sayfaya bağlantılar"); useless.add("anasayfa"); useless.add("ilgili değişiklikler");
@@ -29,31 +29,27 @@ public class HTMLParser{
         useless.add("köy çeşmesi"); useless.add("iş birliği projesi"); useless.add("deneme tahtası"); useless.add("seçkin içerik"); useless.add("rastgele madde");
         useless.add("madde"); useless.add("ısbn sihirli bağlantısını kullanan sayfalar"); useless.add("kaynaksız anlatımlar içeren maddeler"); useless.add("bazı başlıkları geliştirilmeye ihtiyaç duyulan maddeler");
         updateUselessList(useless);
-        queuePage("ajdar");
+        queuePage("ornitorenk");
 
         dequeuePage();
         for(int i = 0; i < 500; i++) {
-            Thread newJob = new Thread() {
-                public void run() {
-                    try {
-                        while (!isEmpty()) {
-                            dequeuePage();
-                        }
-                    } catch (Exception e) {
-                        e.printStackTrace();
+            Thread newJob = new Thread(() -> {
+                try {
+                    while (!isEmpty()) {
+                        dequeuePage();
                     }
+                } catch (Exception e) {
+                    e.printStackTrace();
                 }
-            };
+            });
             newJob.start();
         }
 
     }
-    static void updateUselessList(ArrayList<String> dictionary){
-        for(String str : dictionary){
-            uselessStrings.add(str);
-        }
+    private static void updateUselessList(ArrayList<String> dictionary){
+        uselessStrings.addAll(dictionary);
     }
-    public static void parsePage(String pageName){
+    private static void parsePage(String pageName){
         String url = wikipediaDefault + pageName;
         System.out.println("Fetching %s..." + url);
         try {
@@ -71,7 +67,7 @@ public class HTMLParser{
             for (Element link : links) {
                 if(!(uselessStrings.contains(link.text().toLowerCase(trlocale))) && !link.text().contains("(anlam ayrımı)") && !link.text().equals("") && !link.attr("href").contains("svg")) {
                     pageNames.put(link.text().toLowerCase(trlocale));
-                    pagesToProcess.add(link.text().toLowerCase(trlocale));
+                    queuePage(link.text().toLowerCase(trlocale));
                     //pageUrls.put(link.attr("href"));
                 }
             }
@@ -89,13 +85,13 @@ public class HTMLParser{
         }
 
     }
-    synchronized static void queuePage(String str){
+    private synchronized static void queuePage(String str){
         pagesToProcess.add(str);
     }
-    synchronized static void dequeuePage(){
+    private synchronized static void dequeuePage(){
         parsePage(pagesToProcess.poll());
     }
-    synchronized static boolean isEmpty(){
+    private synchronized static boolean isEmpty(){
         if(pagesToProcess.peek() != null)
             return false;
         return true;
