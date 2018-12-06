@@ -1,8 +1,10 @@
 # -- coding: utf-8 --
-
 import sqlite3
 import sys
 import os
+import time
+import matplotlib.pyplot as plt
+import squarify
 
 #Creating edges table
 def create_edges(c):
@@ -11,7 +13,7 @@ def create_edges(c):
 	c.execute('''DROP TABLE IF EXISTS edges;''')
 	c.execute('''
 	CREATE TABLE IF NOT EXISTS edges (
-		page_id INTEGER PRIMARY KEY,
+		page_id INTEGER PRIMARY KEY ON CONFLICT REPLACE,
 		out_degree INTEGER NOT NULL,
 		page_rank DOUBLE NOT NULL,
 		out_rank DOUBLE NOT NULL,
@@ -28,7 +30,7 @@ def create_final_table(c):
 	print("Creating results table")
 	c.execute('''DROP TABLE IF EXISTS Final_Table;''')
 	c.execute('''CREATE TABLE  Final_Table(
-				page_id INTEGER,
+				page_id INTEGER PRIMARY KEY,
 				page_name TEXT,
 				page_rank DOUBLE);''')
 	print("Finished creating results table")
@@ -39,15 +41,17 @@ def initialize_final_table(c):
 				SELECT id as page_id, title as page_name, page_rank
 				FROM (SELECT id, title FROM pages) join edges WHERE id = page_id;''')
 	print("Finished updating results")
-def reset_final_table(c):
-	c.execute('''DELETE FROM Final_Table;''')
 
-				
+def get_page_rank_of_page(c, page_id):
+	c.execute('''SELECT page_rank FROM edges WHERE page_id = (?);''', (page_id,))
+	return c.fetchone()[0]
+	
 def get_page_rank_statistic(c, top_number):
 	print("Getting top 20 pages")
-	c.execute('''SELECT page_name, page_rank FROM Final_Table ORDER BY page_rank DESC LIMIT 20;''')
+	c.execute('''SELECT title as page_name,page_rank FROM (select page_id, page_rank FROM edges ORDER BY page_rank DESC LIMIT 20) join (SELECT id,title from pages) where id = page_id;''')
+	#stats = [i[0] for i in c.fetchall()]
+	#return stats
 	return c.fetchall()
-	print("Finished getting top 20 pages")
 	
 #Calculating out_rank values for pages that are not deadends
 def update_out_rank(c):
@@ -75,7 +79,9 @@ def incoming_links_of_page(c, page_id):
 
 def get_incoming_links(c):
 	c.execute('''SELECT in_links FROM edges;''')
-	return c.fetchone()[0]
+	fetched_in_edges = [i[0] for i in c.fetchall()]
+	return fetched_in_edges
+	
 	
 #Return the out_rank given a page_id, change page_id with a corresponding one	
 def out_rank_of_page(c, page_id):
@@ -92,7 +98,6 @@ def set_page_rank_of_page(c, page_id, value):
 #Set a pagerank of the column given page_id and value
 def reset_pageranks(c):
 	c.execute('''UPDATE edges SET page_rank = 0;''')
-	c.execute('''UPDATE Final_Table SET page_rank = 0;''')
 	return
 
 def select_all_page_ids(c):
@@ -112,54 +117,78 @@ def select_all_out_ranks(c):
 def id_rank_mapper(c, page_list, out_ranks):
 	dictionary = dict(zip(page_list, out_ranks))
 	return dictionary
-		
+
+def id_in_edge_mapper(c, page_list):
+	in_edges= get_incoming_links(c)
+	for i in range(len(in_edges)):
+		in_edges[i] = in_edges[i].split("|") 
+	return dict(zip(page_list,in_edges))
+
+
 #One iteration of pagerank algorithm
-def one_iteration_page_rank(c, beta, num_total, page_list):
+def one_iteration_page_rank(c, beta, num_total, page_list, in_edge_dict):
+	start_time = time.time()
 	update_out_rank(c)
-	reset_pageranks(c)
-	
+	page_rank_diff = []
 	out_ranks = select_all_out_ranks(c)
 	dictionary = id_rank_mapper(c, page_list, out_ranks)
 	
-
+	epsilon = 0.003 * len(page_list)
 	teleport_contribution = (1 - beta)
 	leak_contribution = (calculate_total_leak(c) * beta)/ float(num_total)
-	
+	page_rank_diff = []
 	for i in range (len(page_list)):
 		page_rank = teleport_contribution + leak_contribution
-		incoming_links = incoming_links_of_page(c, page_list[i]).split("|")
+		incoming_links = in_edge_dict.get(int(page_list[i]))
 		if(incoming_links[0] != ""):
 			for j in range (len(incoming_links)):
 				page_rank += dictionary.get(int(incoming_links[j])) * beta
+		page_rank_diff.append(abs(page_rank - get_page_rank_of_page(c,int(page_list[i]))))
 		set_page_rank_of_page(c, page_list[i], page_rank)
-		# Some progress info
-		percent = 100.0 * i / len(page_list)
-		line = '[{0}{1}]'.format('=' * int(percent / 2), ' ' * (50 - int(percent / 2)))
-		status = '\r{0:3.0f}%{1} {2:3d}/{3:3d} entries'
-		sys.stdout.write(status.format(percent, line, i, len(page_list)))
+	print("--- %s seconds ---" % (time.time() - start_time))
+	print(sum(page_rank_diff), "!!!!!!!!!!!!!!!", epsilon)
+	if(sum(page_rank_diff) <= epsilon):
+		return -1 #Diverged
+	return 0
 	
 def print_stats(c,top_number):
 	stats = get_page_rank_statistic(c, top_number)
 	for i in range (top_number):
-		print(stats[i],[1])
-		
+		print(stats[i][0], " ~ ", stats[i][1])
+
 #Page rank algorithm		
 def page_rank(c, beta, num_total, iteration_amount, page_list):
+	in_edge_dict = id_in_edge_mapper(c,page_list)
 	for i in range (iteration_amount):
-		one_iteration_page_rank(c, beta, num_total, page_list)
-		initialize_final_table(c)
+		is_done = one_iteration_page_rank(c, beta, num_total, page_list, in_edge_dict)
 		print_stats(c,20)
-		reset_final_table(c)
-		
+		if(is_done):
+			print("The page rank diverged in %d iteration(s)", i + 1)
+			break
+
+def tree_map_top(c):
+	final_stats = get_page_rank_statistic(c, 20)
+	final_page_ranks = []
+	for i in range (len(final_stats)):
+		final_page_ranks.append(final_stats[i][1])
+	final_titles = []
+	for i in range (len(final_stats)):
+		final_titles.append(final_stats[i][0])
+	squarify.plot(sizes=final_page_ranks, label=final_titles, alpha=.7 )
+	plt.axis('off')
+	plt.show() 
+	
 def main():
 	conn = sqlite3.connect('sdow.sqlite')
+	#conn.isolation_level = None#todo
 	c = conn.cursor()
 	create_edges(c)
 	create_final_table(c)
 	page_list = select_all_page_ids(c)
 	inc_list = get_incoming_links(c)
 	num_total = calculate_entry_size(c)
-	page_rank(c, 0.9, num_total, 10, page_list)
+	page_rank(c, 0.9, num_total, 100, page_list)
+	tree_map_top(c)
 	
 	
 	conn.commit()
