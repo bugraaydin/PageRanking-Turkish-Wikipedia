@@ -133,7 +133,7 @@ def one_iteration_page_rank(c, beta, num_total, page_list, in_edge_dict):
 	out_ranks = select_all_out_ranks(c)
 	dictionary = id_rank_mapper(c, page_list, out_ranks)
 	
-	epsilon = 0.003 * len(page_list)
+	epsilon = 0.5 * len(page_list)
 	teleport_contribution = (1 - beta)
 	leak_contribution = (calculate_total_leak(c) * beta)/ float(num_total)
 	page_rank_diff = []
@@ -146,7 +146,6 @@ def one_iteration_page_rank(c, beta, num_total, page_list, in_edge_dict):
 		page_rank_diff.append(abs(page_rank - get_page_rank_of_page(c,int(page_list[i]))))
 		set_page_rank_of_page(c, page_list[i], page_rank)
 	print("--- %s seconds ---" % (time.time() - start_time))
-	print(sum(page_rank_diff), "!!!!!!!!!!!!!!!", epsilon)
 	if(sum(page_rank_diff) <= epsilon):
 		return -1 #Diverged
 	return 0
@@ -189,8 +188,6 @@ def main():
 	num_total = calculate_entry_size(c)
 	page_rank(c, 0.9, num_total, 100, page_list)
 	tree_map_top(c)
-	
-	
 	conn.commit()
 	conn.close()
 	
