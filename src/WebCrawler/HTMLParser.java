@@ -1,4 +1,4 @@
-﻿package WebCrawler;
+package WebCrawler;
 
         import org.json.JSONArray;
         import org.json.JSONObject;
